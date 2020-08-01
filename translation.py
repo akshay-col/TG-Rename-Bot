@@ -1,7 +1,7 @@
 class Translation(object):
-    START_TEXT = """ Rename BOT BY THIS [MAN](https://tx.me/AID_3N)
-              🎈 @DX_BOTZ 🎈
-<b>@DX_BOTZ</b>"""
+    START_TEXT = """ Rename BOT BY THIS [MAN](https://t.me/Noob_admin)
+              
+"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate? You Are Banned!"
